@@ -1,6 +1,6 @@
 # Stuff
 
-_site
+_site*
 .sass-cache
 .jekyll-metadata
 _config_dev.yml
